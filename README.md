@@ -6,9 +6,9 @@
 -------
 The repository contains the following:
 
--Task Files: Each programming task is organized into separate files, allowing for focused exploration and understanding.
--Documentation: Any relevant documentation or instructions pertaining to the tasks can be found in the corresponding directories or files.
--Results: Upon completing each task, the results or outcomes can be documented within the respective task file or in a separate file for reference.
+- Task Files: Each programming task is organized into separate files, allowing for focused exploration and understanding.
+- Documentation: Any relevant documentation or instructions pertaining to the tasks can be found in the corresponding directories or files.
+- Results: Upon completing each task, the results or outcomes can be documented within the respective task file or in a separate file for reference.
 
 **Getting Started**
 --------
